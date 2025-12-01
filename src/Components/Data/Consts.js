@@ -16,11 +16,11 @@ import doc2 from "../../assets/Images/Doctors/doc2.png";
 import doc3 from "../../assets/Images/Doctors/doc3.png";
 import doc4 from "../../assets/Images/Doctors/doc4.png";
 
-import user1 from "../../assets/Images/Users/user1.jpg";
-import user2 from "../../assets/Images/Users/user2.jpg";
-import user3 from "../../assets/Images/Users/user3.jpg";
+import user1 from "../../assets/Images/users/user1.jpg";
+import user2 from "../../assets/Images/users/user2.jpg";
+import user3 from "../../assets/Images/users/user3.jpg";
 
-import logo from "../..//assets/Images/header/Logo.png";
+import logo from "../../assets/Images/header/Logo.png";
 
 export const links = ["Home", "Doctors", "Services", "Reviews"];
 
