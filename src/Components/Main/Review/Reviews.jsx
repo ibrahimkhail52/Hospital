@@ -1,4 +1,4 @@
-import { FeedbackData } from '../../shared/Consts';
+import { FeedbackData } from "../../Data/Consts";
 import SectionWrapper from '../SectionWrapper';
 import Review from './Review';
 

@@ -1,4 +1,4 @@
-import { ServicesData } from "../../shared/Consts";
+import { ServicesData } from "../../Data/Consts";
 import Button from "../../UI/Button";
 import Service from "./Service";
 import { useState } from "react";

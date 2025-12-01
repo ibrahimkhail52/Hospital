@@ -1,4 +1,4 @@
-import { Banner1Data } from '../../shared/Consts';
+import { Banner1Data } from '../../Data/Consts';
 import ListItem from './ListItem';
 
 const Banner1 = () => {

@@ -1,5 +1,5 @@
 import Link from "./Link";
-import { links } from "../..//Components/Shared/Consts";
+import { links } from "../../Components/Data/Consts";
 
 
 const Links = ({ selectedPage, setSelectedPage }) => {

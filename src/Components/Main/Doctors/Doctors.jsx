@@ -1,4 +1,4 @@
-import { DoctorsData } from '../../shared/Consts';
+import { DoctorsData } from "../../Data/Consts";
 import SectionWrapper from '../SectionWrapper';
 import Doctor from './Doctor';
 
