@@ -1,4 +1,4 @@
-import { FooterData } from '../Shared/Consts';
+import { FooterData } from "../Shared/Consts";
 import ContactDiv from './ContactDiv';
 
 const Footer = () => {
